@@ -1,0 +1,53 @@
+.headingContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.heading {
+  margin-bottom: 24px;
+  color: var(--text-text-secondary, #525252);
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  margin: 0;
+}
+
+.buttonContainer {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  font-family: "Inter";
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 12px;
+  padding: 6px 8px;
+  outline: none;
+  border: none;
+  color: var(--blue_100, #3861fb);
+  background: var(--gray_200, #eff2f5);
+  cursor: pointer;
+}
+
+.selectedButton {
+  composes: button;
+  background: var(--blue_100, #3861fb);
+  color: #fff;
+}
+
+.buttonLeft {
+  border-radius: 4px 0px 0px 4px;
+}
+
+.buttonRight {
+  border-radius: 0px 4px 4px 0px;
+}
+
+.recharts-text .recharts-cartesian-axis-tick-value {
+  padding-right: 20px;
+}

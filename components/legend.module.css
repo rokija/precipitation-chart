@@ -1,0 +1,75 @@
+.legendTitle {
+  color: var(--text-text-secondary, #525252);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  margin: 0 0 10px 0;
+}
+
+.legendContent {
+  padding: 5px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.legendGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.legendItem {
+  display: flex;
+  gap: 7px;
+  color: var(--text-text-secondary, #525252);
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 15px;
+  align-items: center;
+}
+
+.scoreTitle {
+  color: var(--text-text-secondary, #525252);
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 15px;
+  padding: 10px 0;
+}
+
+.rectangle {
+  width: 16px;
+  height: 13px;
+  border-radius: 2px;
+}
+
+.red {
+  composes: rectangle;
+  background: #ea3943;
+}
+
+.yellow {
+  composes: rectangle;
+  background: #edc240;
+}
+
+.green {
+  composes: rectangle;
+  background: #20ba81;
+}
+
+.paragraph {
+  color: var(--text-text-secondary, #525252);
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 17px;
+}

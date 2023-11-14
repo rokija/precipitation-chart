@@ -1,0 +1,2252 @@
+[
+  {
+    "month": "Dec",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 8.6,
+        "historicalAverage": 7.1,
+        "optimalZone": [6.1, 8.1]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 8.6,
+        "historicalAverage": 7.1,
+        "optimalZone": [6.1, 8.1]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.1,
+        "optimalZone": [6.1, 8.1]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 9.1,
+        "historicalAverage": 7.1,
+        "optimalZone": [6.1, 8.1]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 9.1,
+        "historicalAverage": 7.1,
+        "optimalZone": [6.1, 8.1]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 9.1,
+        "historicalAverage": 6.9,
+        "optimalZone": [5.9, 7.9]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 9.1,
+        "historicalAverage": 6.9,
+        "optimalZone": [5.9, 7.9]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 9.1,
+        "historicalAverage": 6.9,
+        "optimalZone": [5.9, 7.9]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 8.9,
+        "historicalAverage": 7.5,
+        "optimalZone": [6.5, 8.5]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 8,
+        "optimalZone": [7, 9]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 8,
+        "optimalZone": [7, 9]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 8,
+        "optimalZone": [7, 9]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 8,
+        "optimalZone": [7, 9]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 8,
+        "optimalZone": [7, 9]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 7.4,
+        "optimalZone": [6.4, 8.4]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 7.4,
+        "optimalZone": [6.4, 8.4]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 7.4,
+        "optimalZone": [6.4, 8.4]
+      },
+      {
+        "day": 31,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 7.4,
+        "optimalZone": [6.4, 8.4]
+      }
+    ]
+  },
+  {
+    "month": "Jan",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 3.1,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 3.2,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.4,
+        "optimalZone": [1.4, 3.4]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 3.4,
+        "historicalAverage": 2.5,
+        "optimalZone": [1.5, 3.5]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 3.5,
+        "historicalAverage": 2.8,
+        "optimalZone": [1.7999999999999998, 3.8]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 3.6,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 3.7,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 3.7,
+        "historicalAverage": 3.4,
+        "optimalZone": [2.4, 4.4]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3.5,
+        "optimalZone": [2.5, 4.5]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 3.8,
+        "optimalZone": [2.8, 4.8]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 4.14,
+        "historicalAverage": 2.2799999999999994,
+        "optimalZone": [1.2799999999999994, 3.2799999999999994]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 31,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      }
+    ]
+  },
+  {
+    "month": "Feb",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 4.2,
+        "historicalAverage": 3.1,
+        "optimalZone": [2.1, 4.1]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 5.2,
+        "historicalAverage": 4.1,
+        "optimalZone": [3.0999999999999996, 5.1]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 5.2,
+        "historicalAverage": 4.1,
+        "optimalZone": [3.0999999999999996, 5.1]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 5.2,
+        "historicalAverage": 4.1,
+        "optimalZone": [3.0999999999999996, 5.1]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 5.2,
+        "historicalAverage": 4.1,
+        "optimalZone": [3.0999999999999996, 5.1]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 5.6,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 5.6,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 5.8,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 5.8,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 5.8,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      }
+    ]
+  },
+  {
+    "month": "Mar",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 6.3,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5,
+        "optimalZone": [4, 6]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5,
+        "optimalZone": [4, 6]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5,
+        "optimalZone": [4, 6]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5,
+        "optimalZone": [4, 6]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 6.6,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 6.6,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 6.6,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 6.6,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 6.6,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 6.6,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 6.6,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 6.6,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 4.3,
+        "optimalZone": [3.3, 5.3]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 4.3,
+        "optimalZone": [3.3, 5.3]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 4.3,
+        "optimalZone": [3.3, 5.3]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 4.3,
+        "optimalZone": [3.3, 5.3]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 4.3,
+        "optimalZone": [3.3, 5.3]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 4.3,
+        "optimalZone": [3.3, 5.3]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 4.3,
+        "optimalZone": [3.3, 5.3]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 4.3,
+        "optimalZone": [3.3, 5.3]
+      },
+      {
+        "day": 31,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 4.3,
+        "optimalZone": [3.3, 5.3]
+      }
+    ]
+  },
+  {
+    "month": "Apr",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 7.2,
+        "historicalAverage": 4.2,
+        "optimalZone": [3.2, 5.2]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.4,
+        "optimalZone": [3.4000000000000004, 5.4]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.4,
+        "optimalZone": [3.4000000000000004, 5.4]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.4,
+        "optimalZone": [3.4000000000000004, 5.4]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      }
+    ]
+  },
+  {
+    "month": "May",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 7.5,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 4.8,
+        "optimalZone": [3.8, 5.8]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 7.3,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 7.3,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 7.3,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 7.3,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 7.3,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 7.3,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 7.3,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 7.3,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 7.3,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      },
+      {
+        "day": 31,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      }
+    ]
+  },
+  {
+    "month": "Jun",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 5.9,
+        "optimalZone": [4.9, 6.9]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 5.9,
+        "optimalZone": [4.9, 6.9]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 5.9,
+        "optimalZone": [4.9, 6.9]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 5.2,
+        "optimalZone": [4.2, 6.2]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 5,
+        "historicalAverage": 4,
+        "optimalZone": [3, 5]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 5,
+        "historicalAverage": 4,
+        "optimalZone": [3, 5]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 5,
+        "historicalAverage": 4,
+        "optimalZone": [3, 5]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 5,
+        "historicalAverage": 4,
+        "optimalZone": [3, 5]
+      }
+    ]
+  },
+  {
+    "month": "Jul",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 4.7,
+        "historicalAverage": 4,
+        "optimalZone": [3, 5]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 4.7,
+        "historicalAverage": 4,
+        "optimalZone": [3, 5]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 4.7,
+        "historicalAverage": 4,
+        "optimalZone": [3, 5]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 4.7,
+        "historicalAverage": 4,
+        "optimalZone": [3, 5]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 4.3,
+        "historicalAverage": 3.6,
+        "optimalZone": [2.6, 4.6]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 4.3,
+        "historicalAverage": 3.6,
+        "optimalZone": [2.6, 4.6]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 4.3,
+        "historicalAverage": 3.6,
+        "optimalZone": [2.6, 4.6]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 4.3,
+        "historicalAverage": 3.6,
+        "optimalZone": [2.6, 4.6]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 4.3,
+        "historicalAverage": 3.6,
+        "optimalZone": [2.6, 4.6]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 4.3,
+        "historicalAverage": 3.6,
+        "optimalZone": [2.6, 4.6]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 4.3,
+        "historicalAverage": 3.6,
+        "optimalZone": [2.6, 4.6]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 3.8,
+        "historicalAverage": 3,
+        "optimalZone": [2, 4]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.5,
+        "optimalZone": [1.5, 3.5]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.5,
+        "optimalZone": [1.5, 3.5]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.5,
+        "optimalZone": [1.5, 3.5]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.5,
+        "optimalZone": [1.5, 3.5]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 31,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      }
+    ]
+  },
+  {
+    "month": "Aug",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 3.3,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 2,
+        "historicalAverage": 1.8,
+        "optimalZone": [0.8, 2.8]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 2.5,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 2.5,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 2.9,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 2.9,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 2.9,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 2.9,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 2.9,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 3,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 3,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 3.1,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 3.1,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 3.1,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 3.5,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 3.5,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 3.5,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 3.5,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 3.5,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 3.5,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 31,
+        "currentPrecipitation": 3.5,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      }
+    ]
+  },
+  {
+    "month": "Sep",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 3.5,
+        "historicalAverage": 2,
+        "optimalZone": [1, 3]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 3.7,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 3.7,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 3.7,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 3.7,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 3.7,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 3.7,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 3.9,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 4.4,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 4.4,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 4.4,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 4.4,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 4.4,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 4.4,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 4.4,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 4.4,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 4.4,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 4.8,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 4.8,
+        "historicalAverage": 2.6,
+        "optimalZone": [1.6, 3.6]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 4.8,
+        "historicalAverage": 2.6,
+        "optimalZone": [1.6, 3.6]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 4.8,
+        "historicalAverage": 2.6,
+        "optimalZone": [1.6, 3.6]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 2.6,
+        "optimalZone": [1.6, 3.6]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 2.6,
+        "optimalZone": [1.6, 3.6]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 2.6,
+        "optimalZone": [1.6, 3.6]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 2.6,
+        "optimalZone": [1.6, 3.6]
+      }
+    ]
+  },
+  {
+    "month": "Oct",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 2.6,
+        "optimalZone": [1.6, 3.6]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 5.5,
+        "historicalAverage": 2.6,
+        "optimalZone": [1.6, 3.6]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 2.6,
+        "optimalZone": [1.6, 3.6]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 5.9,
+        "historicalAverage": 2.3,
+        "optimalZone": [1.2999999999999998, 3.3]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 6.1,
+        "historicalAverage": 2.1,
+        "optimalZone": [1.1, 3.1]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 6.5,
+        "historicalAverage": 2.2,
+        "optimalZone": [1.2000000000000002, 3.2]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 3.3,
+        "optimalZone": [2.3, 4.3]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 4.3,
+        "optimalZone": [3.3, 5.3]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 6.7,
+        "historicalAverage": 5.3,
+        "optimalZone": [4.3, 6.3]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.7,
+        "optimalZone": [4.7, 6.7]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 5.9,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 5.5,
+        "optimalZone": [4.5, 6.5]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 4.5,
+        "optimalZone": [3.5, 5.5]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 3.9,
+        "optimalZone": [2.9, 4.9]
+      },
+      {
+        "day": 31,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 3.9,
+        "optimalZone": [2.9, 4.9]
+      }
+    ]
+  },
+  {
+    "month": "Nov",
+    "days": [
+      {
+        "day": 1,
+        "currentPrecipitation": 6.9,
+        "historicalAverage": 4.1,
+        "optimalZone": [3.0999999999999996, 5.1]
+      },
+      {
+        "day": 2,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 3,
+        "currentPrecipitation": 7.1,
+        "historicalAverage": 4.6,
+        "optimalZone": [3.5999999999999996, 5.6]
+      },
+      {
+        "day": 4,
+        "currentPrecipitation": 6.8,
+        "historicalAverage": 5.9,
+        "optimalZone": [4.9, 6.9]
+      },
+      {
+        "day": 5,
+        "currentPrecipitation": 6.8,
+        "historicalAverage": 5.9,
+        "optimalZone": [4.9, 6.9]
+      },
+      {
+        "day": 6,
+        "currentPrecipitation": 6.8,
+        "historicalAverage": 5.9,
+        "optimalZone": [4.9, 6.9]
+      },
+      {
+        "day": 7,
+        "currentPrecipitation": 6.8,
+        "historicalAverage": 5.9,
+        "optimalZone": [4.9, 6.9]
+      },
+      {
+        "day": 8,
+        "currentPrecipitation": 6.8,
+        "historicalAverage": 5.9,
+        "optimalZone": [4.9, 6.9]
+      },
+      {
+        "day": 9,
+        "currentPrecipitation": 7,
+        "historicalAverage": 5.8,
+        "optimalZone": [4.8, 6.8]
+      },
+      {
+        "day": 10,
+        "currentPrecipitation": 7,
+        "historicalAverage": 5.6,
+        "optimalZone": [4.6, 6.6]
+      },
+      {
+        "day": 11,
+        "currentPrecipitation": 7.3,
+        "historicalAverage": 5.4,
+        "optimalZone": [4.4, 6.4]
+      },
+      {
+        "day": 12,
+        "currentPrecipitation": 7.4,
+        "historicalAverage": 5.4,
+        "optimalZone": [4.4, 6.4]
+      },
+      {
+        "day": 13,
+        "currentPrecipitation": 7.6,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 14,
+        "currentPrecipitation": 7.6,
+        "historicalAverage": 5.1,
+        "optimalZone": [4.1, 6.1]
+      },
+      {
+        "day": 15,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 5.6,
+        "optimalZone": [4.6, 6.6]
+      },
+      {
+        "day": 16,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 5.6,
+        "optimalZone": [4.6, 6.6]
+      },
+      {
+        "day": 17,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 5.6,
+        "optimalZone": [4.6, 6.6]
+      },
+      {
+        "day": 18,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 5.6,
+        "optimalZone": [4.6, 6.6]
+      },
+      {
+        "day": 19,
+        "currentPrecipitation": 7.9,
+        "historicalAverage": 5.6,
+        "optimalZone": [4.6, 6.6]
+      },
+      {
+        "day": 20,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 21,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 22,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 23,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 24,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 25,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 26,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 27,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 28,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 29,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      },
+      {
+        "day": 30,
+        "currentPrecipitation": 8.1,
+        "historicalAverage": 6.2,
+        "optimalZone": [5.2, 7.2]
+      }
+    ]
+  }
+]
