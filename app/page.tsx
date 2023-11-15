@@ -1,5 +1,5 @@
 import styles from "./page.module.css";
-import CustomLineChart from "../components/CustomLineChart";
+import Chart from "../components/Chart";
 import Legend from "../components/Legend";
 
 export default function Home() {
@@ -7,7 +7,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.pageContainer}>
         <div className={styles.chartContainer}>
-          <CustomLineChart />
+          <Chart />
         </div>
         <div className={styles.legendContainer}>
           <Legend />

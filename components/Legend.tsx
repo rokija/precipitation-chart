@@ -1,6 +1,6 @@
 import styles from "./legend.module.css";
 
-const Historical = () => (
+export const Historical = () => (
   <svg
     width="16"
     height="3"
@@ -19,7 +19,7 @@ const Historical = () => (
   </svg>
 );
 
-const Current = () => (
+export const Current = () => (
   <svg
     width="16"
     height="4"
@@ -31,7 +31,7 @@ const Current = () => (
   </svg>
 );
 
-const Optimal = () => (
+export const Optimal = () => (
   <svg
     width="16"
     height="13"

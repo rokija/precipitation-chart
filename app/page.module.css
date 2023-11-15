@@ -10,6 +10,7 @@
 
 .pageContainer {
   width: 100%;
+  max-width: 1400px;
   display: flex;
   gap: 47px;
   margin: auto;

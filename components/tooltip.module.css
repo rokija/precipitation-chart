@@ -1,0 +1,35 @@
+.tooltip {
+  border: solid 1px #8792a5be;
+  padding: 7px 12px;
+  background: rgba(255, 255, 255, 0.75);
+  border-radius: 2px;
+}
+
+.label {
+  color: var(--text-text-secondary, #525252);
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.rectangle {
+  width: 16px;
+  height: 13px;
+  border-radius: 2px;
+}
+
+.dataKey {
+  margin-bottom: 5px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  color: #525252;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
